@@ -16,7 +16,7 @@
  <a href="https://www.instagram.com/saman_azadi_/" alt="Follow on instagram">
    <img src="https://img.shields.io/badge/-saman_azadi_-aa00ff?style=flat&logo=instagram&logoColor=white" />
  </a>
- <a href="https://virgool.io/@Mr-coder" alt="Follow on instagram">
+ <a href="https://virgool.io/@SamanAzadi" alt="Follow on instagram">
    <img src="https://img.shields.io/badge/-virgool-silver?style=flat&logo=virgool&logoColor=white" />
  </a>
 </p>
