@@ -28,4 +28,4 @@
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samanazadi1996&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samanazadi1996&show_icons=true&theme=cobalt" alt="abhisheknaiidu" />
