@@ -24,7 +24,6 @@
 ---
 
 - 💻 Asp.NET Backend Developer • Javascript • Angular .
-- 🖊 Blogger
 
 ---
 
