@@ -23,7 +23,7 @@
 
 ---
 
-- 💻 Asp.NET Backend Developer • Javascript • Angular .
+- 💻 .NET Developer • Javascript • Python • C++ • Golang .
 
 ---
 
