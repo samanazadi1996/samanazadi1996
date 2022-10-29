@@ -10,7 +10,7 @@
  <a href="mailto:samanazadi1996@gmail.com" alt="Gmail">
    <img src="https://img.shields.io/badge/-samanazadi1996@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" />
  </a>
- <a href="https://t.me/saman1996" alt="Contact on Telegram">
+ <a href="https://t.me/sam_i_x" alt="Contact on Telegram">
    <img src="https://img.shields.io/badge/-saman1996-88ff88?style=flat&logo=Telegram&logoColor=white" />
  </a>
  <a href="https://www.instagram.com/saman_azadi_/" alt="Follow on instagram">
