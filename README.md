@@ -1,6 +1,10 @@
  <h1 align="center">𝐻𝑒𝓁𝓁𝑜 𝒲𝑜𝓇𝓁𝒹 , 𝐼'𝓂 𝒮𝒶𝓂𝒶𝓃 𝒜𝓏𝒶𝒹𝒾 👋</h1>
 
  <p align="center"> 
+  <a href="https://coffeete.ir" alt="Follow on coffeete">
+   <img src="https://img.shields.io/badge/-coffeete-silver?style=flat&logo=coffeete&logoColor=white" />
+ </a>
+
  <a href="https://twitter.com/intent/follow?screen_name=saman_azadi_" alt="Follow on Twitter">
    <img src="https://img.shields.io/badge/-saman_azadi_-00acee?style=flat&logo=Twitter&logoColor=white" />
  </a>
@@ -16,7 +20,7 @@
  <a href="https://www.instagram.com/saman_azadi_/" alt="Follow on instagram">
    <img src="https://img.shields.io/badge/-saman_azadi_-aa00ff?style=flat&logo=instagram&logoColor=white" />
  </a>
- <a href="https://virgool.io/@SamanAzadi" alt="Follow on instagram">
+ <a href="https://virgool.io/@SamanAzadi" alt="Follow on virgool">
    <img src="https://img.shields.io/badge/-virgool-silver?style=flat&logo=virgool&logoColor=white" />
  </a>
 </p>
