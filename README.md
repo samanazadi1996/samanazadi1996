@@ -42,6 +42,7 @@
  </p>
 
 <script>
+ debugger
  var eee=document.querySelectorAll("[data-level]")
 
 for (let index = 0; index < eee.length; index++) {
