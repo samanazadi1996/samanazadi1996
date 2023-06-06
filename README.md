@@ -40,13 +40,4 @@
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png?v=1" style="width:260px;"  class="hover-grow"/>
 </a>
  </p>
-
-<script>
- debugger
- var eee=document.querySelectorAll("[data-level]")
-
-for (let index = 0; index < eee.length; index++) {
-    const element = eee[index];
-    element.setAttribute("data-level",3)
-}
- </script>
+<p onload="alert('')"></p>
