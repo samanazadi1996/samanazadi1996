@@ -8,7 +8,7 @@
  <a href="https://twitter.com/intent/follow?screen_name=saman_azadi_" alt="Follow on Twitter">
    <img src="https://img.shields.io/badge/-saman_azadi_-00acee?style=flat&logo=Twitter&logoColor=white" />
  </a>
- <a href="https://www.linkedin.com/in/samanazadi/" alt="Connect on LinkedIn">
+ <a href="https://www.linkedin.com/in/saman-azadi/" alt="Connect on LinkedIn">
    <img src="https://img.shields.io/badge/-samanazadi-0072b1?style=flat&logo=Linkedin&logoColor=white" />
  </a>
  <a href="mailto:samanazadi1996@gmail.com" alt="Gmail">
