@@ -27,23 +27,24 @@
 
 ---
 
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://dotnet.microsoft.com/static/images/redesign/social/square.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://angular.io/assets/images/favicons/favicon.ico" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://git-scm.com/favicon.ico" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-180x180.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://www.python.org//static/favicon.ico" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://img.icons8.com/?size=256&id=Ign0QG33bZzq&format=png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://redis.io/images/favicons/favicon-32x32.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://www.elastic.co/apple-icon-144x144.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://www.mongodb.com/assets/images/global/favicon.ico" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://html.com/wp-content/uploads/cropped-site-icon-192x192.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://assets.ubuntu.com/v1/49a1a858-favicon-32x32.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://www.raspberrypi.org/pagekit-assets/media/images/0e3a8d5dd8cf5ddf2f81.svg" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://img.icons8.com/?size=256&id=7gdY5qNXaKC0&format=png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://img.icons8.com/?size=256&id=v8RpPQUwv0N8&format=png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://img.icons8.com/?size=256&id=PXTY4q2Sq2lG&format=png" style="max-width: 100%;"></a></code>
+<div align="center">
 
+ <code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/2acfcb6af0e04bf81fc44757b70ea62e50e57b21/Icons/csharp.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/2acfcb6af0e04bf81fc44757b70ea62e50e57b21/Icons/dotnet.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/2acfcb6af0e04bf81fc44757b70ea62e50e57b21/Icons/angular.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/2acfcb6af0e04bf81fc44757b70ea62e50e57b21/Icons/git.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/2acfcb6af0e04bf81fc44757b70ea62e50e57b21/Icons/docker.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/2acfcb6af0e04bf81fc44757b70ea62e50e57b21/Icons/python.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/2acfcb6af0e04bf81fc44757b70ea62e50e57b21/Icons/sql.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/2acfcb6af0e04bf81fc44757b70ea62e50e57b21/Icons/redis.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/2acfcb6af0e04bf81fc44757b70ea62e50e57b21/Icons/elk.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/2acfcb6af0e04bf81fc44757b70ea62e50e57b21/Icons/mongo.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/2acfcb6af0e04bf81fc44757b70ea62e50e57b21/Icons/ubuntu.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/2acfcb6af0e04bf81fc44757b70ea62e50e57b21/Icons/raspberrypi.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/2acfcb6af0e04bf81fc44757b70ea62e50e57b21/Icons/html.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/2acfcb6af0e04bf81fc44757b70ea62e50e57b21/Icons/css.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/2acfcb6af0e04bf81fc44757b70ea62e50e57b21/Icons/js.svg" style="max-width: 100%;"></a></code>
+</div>
 
 ---
 
