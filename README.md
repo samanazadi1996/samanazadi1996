@@ -27,7 +27,23 @@
 
 ---
 
-- 💻 .NET Developer • Javascript • Python • C++ • Golang .
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://dotnet.microsoft.com/static/images/redesign/social/square.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://angular.io/assets/images/favicons/favicon.ico" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://git-scm.com/favicon.ico" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-180x180.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://www.python.org//static/favicon.ico" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://img.icons8.com/?size=256&id=Ign0QG33bZzq&format=png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://redis.io/images/favicons/favicon-32x32.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://www.elastic.co/apple-icon-144x144.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://www.mongodb.com/assets/images/global/favicon.ico" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://html.com/wp-content/uploads/cropped-site-icon-192x192.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://assets.ubuntu.com/v1/49a1a858-favicon-32x32.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://www.raspberrypi.org/pagekit-assets/media/images/0e3a8d5dd8cf5ddf2f81.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://img.icons8.com/?size=256&id=7gdY5qNXaKC0&format=png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://img.icons8.com/?size=256&id=v8RpPQUwv0N8&format=png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" ><img async height="40" src="https://img.icons8.com/?size=256&id=PXTY4q2Sq2lG&format=png" style="max-width: 100%;"></a></code>
+
 
 ---
 
