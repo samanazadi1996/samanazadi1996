@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 130 130" fill="none"
+    font-family="Arial">
+    <circle cx="65" cy="65" r="64" fill="#53a9f6" stroke="#000" />
+    <circle cx="65" cy="65" r="48" fill="#72be4d" stroke="#000" />
+    <circle cx="65" cy="65" r="32" fill="#eb5c59" stroke="#000" />
+    <circle cx="65" cy="65" r="16" fill="#f6d142" stroke="#000" />
+    <text x="50%" y="50%" fill="#000" text-anchor="middle" dominant-baseline="middle"
+        font-size=".43em" font-weight="bold">Entities</text>
+    <text x="50%" y="34%" fill="#000" text-anchor="middle" dominant-baseline="middle"
+        font-size=".43em" font-weight="bold">Use Cases</text>
+    <text x="50%" y="21%" fill="#000" text-anchor="middle" dominant-baseline="middle"
+        font-size=".43em" font-weight="bold">Controllers</text>
+    <text x="39" y="95" fill="#000" text-anchor="middle" dominant-baseline="middle"
+        font-size=".43em" font-weight="bold" transform="rotate(39 39 95)">Gateways</text>
+    <text x="90" y="95" fill="#000" text-anchor="middle" dominant-baseline="middle"
+        font-size=".43em" font-weight="bold" transform="rotate(321 90 95)">Presenters</text>
+    <text x="50%" y="83.2%" fill="#000" text-anchor="middle" dominant-baseline="middle"
+        font-size=".43em" font-weight="bold">
+        <tspan x="50%" dy="1.2em">External</tspan>
+        <tspan x="50%" dy="1.2em">Interfaces</tspan>
+    </text>
+    <text x="25" y="105" fill="#000" text-anchor="middle" dominant-baseline="middle"
+        font-size=".43em" font-weight="bold">DB</text>
+    <text x="105" y="105" fill="#000" text-anchor="middle" dominant-baseline="middle"
+        font-size=".43em" font-weight="bold">UI</text>
+    <text x="101" y="23" fill="#000" text-anchor="middle" dominant-baseline="middle"
+        font-size=".43em" font-weight="bold">Web</text>
+    <text x="25" y="27" fill="#000" text-anchor="middle" dominant-baseline="middle"
+        font-size=".43em" font-weight="bold" transform="rotate(321 25 27)">Devices</text>
+    <g transform="translate(29, 47) rotate(137)">
+        <polygon points="1,0 0,10 4,8 12,22 14,21 6,7 10,5" fill="black" transform="scale(0.5)" />
+    </g>
+    <g transform="translate(44, 53) rotate(140)">
+        <polygon points="1,0 0,10 4,8 12,22 14,21 6,7 10,5" fill="black" transform="scale(0.5)" />
+    </g>
+    <g transform="translate(58, 60.8) rotate(150)">
+        <polygon points="1,0 0,10 4,8 12,22 14,21 6,7 10,5" fill="black" transform="scale(0.5)" />
+    </g>
+</svg>
+  
