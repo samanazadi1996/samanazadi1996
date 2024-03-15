@@ -4,12 +4,13 @@
 
 ### Contact Me
 
-[![Twitter](https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/117b39a1bde36a762faee2cada153cb16d727e73/Icons/twitter.svg)](https://twitter.com/intent/follow?screen_name=saman_azadi_)
-[![Stack Overflow](https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/b12b1a735133ecf375411945910bef7fec0d2182/Icons/stackoverflow.svg)](https://stackoverflow.com/users/13861561/saman-azadi)
-[![LinkedIn](https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/b12b1a735133ecf375411945910bef7fec0d2182/Icons/linkedin.svg)](https://www.linkedin.com/in/saman-azadi/)
-[![Gmail](https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/b12b1a735133ecf375411945910bef7fec0d2182/Icons/gmail.svg)](mailto:samanazadi1996@gmail.com)
-[![Telegram](https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/b12b1a735133ecf375411945910bef7fec0d2182/Icons/telegram.svg)](https://t.me/sam_i_x)
-[![Instagram](https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/b12b1a735133ecf375411945910bef7fec0d2182/Icons/instagram.svg)](https://www.instagram.com/saman_azadi_/)
+[![Twitter](https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/3eff8e1706f3ad588187a0e8aa32458921b5b1f6/Icons/Gradient%20icons/twitter.svg)](https://twitter.com/intent/follow?screen_name=saman_azadi_)
+[![Stack Overflow](https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/3eff8e1706f3ad588187a0e8aa32458921b5b1f6/Icons/Gradient%20icons/stackoverflow.svg)](https://stackoverflow.com/users/13861561/saman-azadi)
+[![LinkedIn](https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/3eff8e1706f3ad588187a0e8aa32458921b5b1f6/Icons/Gradient%20icons/linkedin.svg)](https://www.linkedin.com/in/saman-azadi/)
+[![Gmail](https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/3eff8e1706f3ad588187a0e8aa32458921b5b1f6/Icons/Gradient%20icons/gmail.svg)](mailto:samanazadi1996@gmail.com)
+[![Telegram](https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/3eff8e1706f3ad588187a0e8aa32458921b5b1f6/Icons/Gradient%20icons/telegram.svg)](https://t.me/sam_i_x)
+[![Instagram](https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/3eff8e1706f3ad588187a0e8aa32458921b5b1f6/Icons/Gradient%20icons/instagram.svg)](https://www.instagram.com/saman_azadi_/)
+[![CodePen](https://raw.githubusercontent.com/samanazadi1996/samanazadi1996/3eff8e1706f3ad588187a0e8aa32458921b5b1f6/Icons/Gradient%20icons/codepen.svg)](https://codepen.io/sam-sam-the-flexboxer/pens/popular)
 
 ---
  
