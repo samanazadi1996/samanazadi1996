@@ -38,6 +38,6 @@
 
 ---
  
-[![Coffeete.ir](https://www.coffeete.ir/images/buttons/lemonchiffon.png?v=1)](http://www.coffeete.ir/Saman)
+[![buymeacoffee.com](./Icons/buymeacoffee.png)](https://www.buymeacoffee.com/samanazadi)
 
 </div>
