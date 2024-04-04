@@ -38,6 +38,6 @@
 
 ---
  
-[![buymeacoffee.com](./Icons/buymeacoffee.png)](https://www.buymeacoffee.com/samanazadi)
+[![buymeacoffee.com](./Icons/buymeacoffee.svg)](https://www.buymeacoffee.com/samanazadi)
 
 </div>
