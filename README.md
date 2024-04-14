@@ -5,12 +5,17 @@
 ### Contact Me
 
 [![Twitter](./Icons/Gradient%20icons/twitter.svg)](https://twitter.com/intent/follow?screen_name=saman_azadi_)
-[![Stack Overflow](./Icons/Gradient%20icons/stackoverflow.svg)](https://stackoverflow.com/users/13861561/saman-azadi)
 [![LinkedIn](./Icons/Gradient%20icons/linkedin.svg)](https://www.linkedin.com/in/saman-azadi/)
 [![Gmail](./Icons/Gradient%20icons/gmail.svg)](mailto:samanazadi1996@gmail.com)
 [![Telegram](./Icons/Gradient%20icons/telegram.svg)](https://t.me/sam_i_x)
 [![Instagram](./Icons/Gradient%20icons/instagram.svg)](https://www.instagram.com/saman_azadi_/)
+
+---
+### My activities on other websites
+
+[![Stack Overflow](./Icons/Gradient%20icons/stackoverflow.svg)](https://stackoverflow.com/users/13861561/saman-azadi)
 [![CodePen](./Icons/Gradient%20icons/codepen.svg)](https://codepen.io/sam-sam-the-flexboxer/pens/popular)
+[![marketplace](./Icons/Gradient%20icons/visualstudio.svg)](https://marketplace.visualstudio.com/publishers/SamanAzadi1996)
 
 ---
  
