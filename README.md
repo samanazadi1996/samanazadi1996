@@ -16,6 +16,7 @@
 [![Stack Overflow](./Icons/Gradient%20icons/stackoverflow.svg)](https://stackoverflow.com/users/13861561/saman-azadi)
 [![CodePen](./Icons/Gradient%20icons/codepen.svg)](https://codepen.io/sam-sam-the-flexboxer/pens/popular)
 [![marketplace](./Icons/Gradient%20icons/visualstudio.svg)](https://marketplace.visualstudio.com/publishers/SamanAzadi1996)
+[![medium](./Icons/Gradient%20icons/medium.svg)](https://medium.com/@samanazadi1996)
 
 ---
  
