@@ -40,7 +40,11 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samanazadi1996&show_icons=true&theme=cobalt)
+<a href="https://github.com/jasontaylordev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samanazadi1996&show_icons=true&theme=transparent&count_private=true" alt="JasonTaylorDev's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanazadi1996&theme=transparent&layout=compact" 
+    alt="JasonTaylorDev GitHub Top Languages" />
+</a>
 
 ---
  
