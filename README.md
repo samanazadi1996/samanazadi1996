@@ -2,15 +2,6 @@
 
 # 𝐻𝑒𝓁𝓁𝑜 𝒲𝑜𝓇𝓁𝒹 , 𝐼'𝓂 𝒮𝒶𝓂𝒶𝓃 𝒜𝓏𝒶𝒹𝒾 👋
 
-### Contact Me
-
-[![Twitter](./Icons/Gradient%20icons/twitter.svg)](https://twitter.com/intent/follow?screen_name=saman_azadi_)
-[![LinkedIn](./Icons/Gradient%20icons/linkedin.svg)](https://www.linkedin.com/in/saman-azadi/)
-[![Gmail](./Icons/Gradient%20icons/gmail.svg)](mailto:samanazadi1996@gmail.com)
-[![Telegram](./Icons/Gradient%20icons/telegram.svg)](https://t.me/sam_i_x)
-[![Instagram](./Icons/Gradient%20icons/instagram.svg)](https://www.instagram.com/saman_azadi_/)
-
----
 ### My activities on other websites
 
 [![Stack Overflow](./Icons/Gradient%20icons/stackoverflow.svg)](https://stackoverflow.com/users/13861561/saman-azadi)
