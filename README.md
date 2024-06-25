@@ -38,8 +38,4 @@
     alt="Saman Azadi GitHub Top Languages" />
 </a>
 
----
- 
-[![buymeacoffee.com](./Icons/buymeacoffee.svg)](https://www.buymeacoffee.com/samanazadi)
-
 </div>
