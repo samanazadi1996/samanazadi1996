@@ -34,7 +34,7 @@
 
 <a href="https://github.com/samanazadi1996">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samanazadi1996&show_icons=true&theme=transparent&count_private=true" alt="Saman Azadi GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanazadi1996&theme=transparent&layout=compact&v=1" 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanazadi1996&theme=transparent&layout=compact&v=1&exclude_repo=Sam.SchoolProjects" 
     alt="Saman Azadi GitHub Top Languages" />
 </a>
 
