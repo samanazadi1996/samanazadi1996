@@ -14,21 +14,21 @@
  
 ### My Technical Skills and Expertise
 
-<img async src="./Icons/csharp.svg" alt="C#" height="40">
-<img async src="./Icons/dotnet.svg" alt=".NET" height="40">
-<img async src="./Icons/angular.svg" alt="Angular" height="40">
-<img async src="./Icons/git.svg" alt="Git" height="40">
-<img async src="./Icons/docker.svg" alt="Docker" height="40">
-<img async src="./Icons/python.svg" alt="Python" height="40">
-<img async src="./Icons/sql.svg" alt="SQL" height="40">
-<img async src="./Icons/redis.svg" alt="Redis" height="40">
-<img async src="./Icons/elk.svg" alt="ELK" height="40">
-<img async src="./Icons/mongo.svg" alt="MongoDB" height="40">
-<img async src="./Icons/ubuntu.svg" alt="Ubuntu" height="40">
-<img async src="./Icons/raspberrypi.svg" alt="Raspberry Pi" height="40">
-<img async src="./Icons/html.svg" alt="HTML" height="40">
-<img async src="./Icons/css.svg" alt="CSS" height="40">
-<img async src="./Icons/js.svg" alt="JavaScript" height="40">
+[<img async src="./Icons/csharp.svg" alt="C#" height="40">](https://github.com/samanazadi1996)
+[<img async src="./Icons/dotnet.svg" alt="C#" height="40">](https://github.com/samanazadi1996)
+[<img async src="./Icons/angular.svg" alt="C#" height="40">](https://github.com/samanazadi1996)
+[<img async src="./Icons/git.svg" alt="C#" height="40">](https://github.com/samanazadi1996)
+[<img async src="./Icons/docker.svg" alt="C#" height="40">](https://github.com/samanazadi1996)
+[<img async src="./Icons/python.svg" alt="C#" height="40">](https://github.com/samanazadi1996)
+[<img async src="./Icons/sql.svg" alt="C#" height="40">](https://github.com/samanazadi1996)
+[<img async src="./Icons/redis.svg" alt="C#" height="40">](https://github.com/samanazadi1996)
+[<img async src="./Icons/elk.svg" alt="C#" height="40">](https://github.com/samanazadi1996)
+[<img async src="./Icons/mongo.svg" alt="C#" height="40">](https://github.com/samanazadi1996)
+[<img async src="./Icons/ubuntu.svg" alt="C#" height="40">](https://github.com/samanazadi1996)
+[<img async src="./Icons/raspberrypi.svg" alt="C#" height="40">](https://github.com/samanazadi1996)
+[<img async src="./Icons/html.svg" alt="C#" height="40">](https://github.com/samanazadi1996)
+[<img async src="./Icons/css.svg" alt="C#" height="40">](https://github.com/samanazadi1996)
+[<img async src="./Icons/js.svg" alt="C#" height="40">](https://github.com/samanazadi1996)
 
 ---
 
