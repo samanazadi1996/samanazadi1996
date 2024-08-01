@@ -2,7 +2,7 @@
 
 # 𝐻𝑒𝓁𝓁𝑜 𝒲𝑜𝓇𝓁𝒹 , 𝐼'𝓂 𝒮𝒶𝓂𝒶𝓃 𝒜𝓏𝒶𝒹𝒾 👋
 
-### My activities on other websites
+### Explore My Activities on Various Online Platforms
 
 [![Stack Overflow](./Icons/Gradient%20icons/stackoverflow.svg)](https://stackoverflow.com/users/13861561/saman-azadi)
 [![CodePen](./Icons/Gradient%20icons/codepen.svg)](https://codepen.io/sam-sam-the-flexboxer/pens/popular)
@@ -12,7 +12,7 @@
 
 ---
  
-### Skills
+### My Technical Skills and Expertise
 
 <img async src="./Icons/csharp.svg" alt="C#" height="40">
 <img async src="./Icons/dotnet.svg" alt=".NET" height="40">
