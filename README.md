@@ -31,7 +31,7 @@
 [<img async src="./Icons/js.svg" alt="js" height="40">](https://github.com/samanazadi1996)
 
 ---
-[![Stats](https://github-readme-stats.vercel.app/api?username=samanazadi1996&show_icons=true&theme=transparent&count_private=true&hide_border=true)](https://github.com/samanazadi1996)
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samanazadi1996&theme=transparent&layout=compact&v=1&exclude_repo=Sam.SchoolProjects&hide_border=true)](https://github.com/samanazadi1996)
+[![Stats](./profile/stats.svg)](https://github.com/samanazadi1996)
+[![Top Languages](./profile/top-langs.svg)](https://github.com/samanazadi1996)
 
 </div>
